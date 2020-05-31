@@ -1,9 +1,10 @@
 import '3_largest_prime_factor.dart';
 
 main() {
-  asalCarpan();
+  enBuyukAsalCarpan();
 }
 
+/*
 diger() {
   int toplam = 0;
   for (int i = 2; i < 200000; i++) {
@@ -20,3 +21,4 @@ diger() {
   }
   print(toplam);
 }
+*/
